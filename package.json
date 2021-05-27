@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-pwa-typescript-duda-widget",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "description": "A progressive web app template for Create React App and TypeScript, using Workbox, to develop Duda widgets.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/albertososa95/cra-template-pwa-typescript-duda-widget.git",
+    "directory": "cra-template-pwa-typescript-duda-widget"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/albertososa95/cra-template-pwa-typescript-duda-widget/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
